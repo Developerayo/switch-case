@@ -2,7 +2,7 @@
 using namespace std;
  
 int main () {
-   // local variable declaration:
+   // local variable declaration: 
    char grade = 'D';
 
    switch(grade) {
